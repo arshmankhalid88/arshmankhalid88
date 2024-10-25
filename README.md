@@ -1,8 +1,9 @@
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Analyze+|+Predict+|+Deploy&color=32CD32" alt="Typing SVG">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze+|+Predict+|+Deploy&color=006400)](https://git.io/typing-svg)
-
-</div>
 
 ## Intro
 I’m a Machine Learning Engineer with 5+ years of experience in Python application development. My expertise spans machine learning algorithms, and I’m skilled with libraries like LangChain, SciPy, and TensorFlow.
