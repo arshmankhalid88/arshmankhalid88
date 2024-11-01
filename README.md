@@ -10,6 +10,8 @@ I specialize in data cleaning, preprocessing, and feature engineering, and have 
 
 Let’s connect to discuss how I can deliver tailored solutions that meet your business goals!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshmankhalid/)
+
 
 ## My Skills
 
