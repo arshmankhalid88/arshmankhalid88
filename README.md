@@ -61,7 +61,7 @@ Let’s connect to discuss how I can deliver tailored solutions that meet your b
 
 ## Github Stats
 
-![Sohaib Anwaar GitHub stats](https://github-readme-stats.vercel.app/api?username=arshmankhalid88&show_icons=true&theme=transparent)
+![Arshman Khalid GitHub stats](https://github-readme-stats.vercel.app/api?username=arshmankhalid88&show_icons=true&theme=transparent)
 
 ## Top Languages
 
