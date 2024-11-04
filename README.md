@@ -10,7 +10,7 @@ I specialize in data cleaning, preprocessing, and feature engineering, and have 
 
 Let’s connect to discuss how I can deliver tailored solutions that meet your business goals!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshmankhalid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshmankhalid/) 
 
 
 ## My Skills
@@ -67,5 +67,5 @@ Let’s connect to discuss how I can deliver tailored solutions that meet your b
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshmankhalid88&hide_progress=true&theme=dark)
 
-
+![](https://komarev.com/ghpvc/?username=arshmankhalid88)
 
